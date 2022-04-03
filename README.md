@@ -1,2 +1,4 @@
-# discord-php-webhook--rnek
-Dostum tarafından yazılmış PHP webhook örneği.
+# PHP Webhook
+```bash
+> PHP Kullanılarak yazılmış discord webhook örneği.
+```
