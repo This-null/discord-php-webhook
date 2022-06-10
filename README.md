@@ -1,7 +1,8 @@
 # PHP Webhook
-- PHP Dersleri veya soruları için:  `Arif Çakmak#5389`
-- Kaynak Sunucusu: https://discord.gg/Nbva6VtYwX
 
+
+- Soru ve bot hakkında sorunlar için:  `null#4000`
+- Kaynak Sunucusu: https://discord.com/invite/zN5hjyCBJR
 ```bash
 > PHP Kullanılarak yazılmış discord webhook örneği.
 ```
